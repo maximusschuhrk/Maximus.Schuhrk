@@ -1,0 +1,64 @@
+body{
+	margin: 0;
+	font-family: Arial, Optima;
+	background-color: WHITESMOKE;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: BLACK;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: FIREBRICK;
+	font-size: 80px;
+}
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid FIREBRICK;
+}
+main{
+	max-width: 800px;
+	margin:0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color:FIREBRICK ;
+	margin: 40px 0 10px;
+}
+
+a{
+color:FIREBRICK;
+
+}
+a:hover{
+color: MEDIUMPURPLE;
+}
+
+footer{
+	text-align: center;
+	padding: 40px;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+
+}
+
+
+
+
+
